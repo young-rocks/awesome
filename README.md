@@ -4,7 +4,7 @@ White paper
 - [Move: A Language With Programmable Resources](https://diem-developers-components.netlify.app/papers/diem-move-a-language-with-programmable-resources/2020-05-26.pdf)
 
 Programmming
-- A book for Move beginner (in Chinese): [Move book](https://move-book.com/cn)
+- Move book, a book for Move beginner. [english](https://move-book.com), [chinese](https://move-book.com/cn)
 - A video to introduce Move security (in Chinese): [Move编程语言如何保证资产安全](https://www.bilibili.com/video/BV1WA411e7Hr)
 
 Formal verification

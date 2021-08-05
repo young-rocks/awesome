@@ -15,6 +15,7 @@ Formal verification
 # Zero-Knowledge Proof
 
 Zk proofs
+- Summary of recent zero-knowledge proving systems: [zkp.science](https://zkp.science)
 - Vitalik Buterin’s introduction to SNARKs, [part 1](https://medium.com/@VitalikButerin/quadratic-arithmetic-programs-from-zero-to-hero-f6d558cea649), [2](https://medium.com/@VitalikButerin/exploring-elliptic-curve-pairings-c73c1864e627), and [3](https://medium.com/@VitalikButerin/zk-snarks-under-the-hood-b33151a013f6)
 - Vitalik’s introduction to STARKs, [part 1](https://vitalik.ca/general/2017/11/09/starks_part_1.html), [2](https://vitalik.ca/general/2017/11/22/starks_part_2.html), [3](https://vitalik.ca/general/2018/07/21/starks_part_3.html)
 
